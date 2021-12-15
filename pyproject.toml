@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    "tensorflow==2.2",
+    "numpy",
+    "opencv-python==4.5.4.60",
+    "Pillow",
+]
+build-backend = "setuptools.build_meta"

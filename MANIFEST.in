@@ -1,0 +1,9 @@
+include src/proctoring/pose_model/variables/variables.data-00000-of-00001
+include src/proctoring/pose_model/variables/variables.index
+include src/proctoring/pose_model/saved_model.pb
+include src/proctoring/classes.TXT
+include src/proctoring/deploy.prototxt
+include src/proctoring/opencv_face_detector_uint8.pb
+include src/proctoring/opencv_face_detector.pbtxt
+include src/proctoring/res10_300x300_ssd_iter_140000.caffemodel
+include src/proctoring/shape_predictor_68_face_landmarks.dat
